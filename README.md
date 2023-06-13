@@ -37,12 +37,24 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Credits
-https://github.com/coding-boot-camp/fantastic-umbrella.git  
+https://github.com/coding-boot-camp/fantastic-umbrella.git    
 https://courses.bootcampspot.com/courses/3100/assignments/48732?module_item_id=890796  
 
 
 ## Tests
-Accomplishing the user criteria will successfully test the application.
+Accomplishing the user criteria will successfully test the application.  
+The pictures show the initial seeded data and final results of my application's functionality.  
+P1. ecommerce_db product table seeded:         
+![alt "ecommerce_db product table seeded"](../ch13-orm-e-commerce-back-end/Develop/public/images/product_seeded_db.png)      
+P2. ecommerce_db category table seeded:          
+![alt "ecommerce_db category table seeded"](./Develop/public/images/category_seeded_db.png)    
+P3. ecommerce_db tag table seeded:        
+![alt "ecommerce_db tag table seeded"](./Develop/public/images/tag_seeded_db.png)    
+P4. new created product Id-15/category/tag:        
+![alt "new created product Id-15/category/tag"](./Develop/public/images/new_created_product_id15_category_id6_tag_id9.png)  
+P5. new created product Id-16/category/tag:     
+![alt "new created product Id-16/category/tag"](./Develop/public/images/new_product_id16_category_id6_tag_id9.png)    
+
 
 ## Email
 Contact me with additional questions at this email address:
@@ -53,9 +65,11 @@ dimartoro@gmail.com
 https://github.com/dimartoro
 
 ## License
-This app is licensed under [MIT](https://choosealicense.com/licenses/mit/) lincense
+This app is licensed under [MIT](https://choosealicense.com/licenses/mit/) license
 
 ## VideoLink
-https://drive.google.com/file/d/1Ic14KwgC7xy8tJC7A5SB_llg_hcsXhf1/view
+https://drive.google.com/file/d/1KtCrdvaUok2I2daspz5PIZ1Y49kD9MBQ/view  
+
+https://drive.google.com/file/d/1oZitiqjrum3CK-YkMATM15159P1S_4In/view  
 
 
