@@ -45,7 +45,7 @@ https://courses.bootcampspot.com/courses/3100/assignments/48732?module_item_id=8
 Accomplishing the user criteria will successfully test the application.  
 The pictures show the initial seeded data and final results of my application's functionality.  
 P1. ecommerce_db product table seeded:         
-![alt "ecommerce_db product table seeded"](../ch13-orm-e-commerce-back-end/Develop/public/images/product_seeded_db.png)      
+![alt "ecommerce_db product table seeded"](./Develop/public/images/product_seeded_db.png)      
 P2. ecommerce_db category table seeded:          
 ![alt "ecommerce_db category table seeded"](./Develop/public/images/category_seeded_db.png)    
 P3. ecommerce_db tag table seeded:        
